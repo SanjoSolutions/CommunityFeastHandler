@@ -1,4 +1,4 @@
 ## Community Feast Handler
-## Interface: 100100
+## Interface: 100007
 
 CommunityFeastHandler.lua
